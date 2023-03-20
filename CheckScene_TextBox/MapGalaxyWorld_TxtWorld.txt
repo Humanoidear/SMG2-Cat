@@ -1,0 +1,8 @@
+MessageCheck.mstxt:MapGalaxyWorld_TxtWorld
+GalaxyName.mstxt:GalaxyName_WorldMap01Galaxy
+GalaxyName.mstxt:GalaxyName_WorldMap02Galaxy
+GalaxyName.mstxt:GalaxyName_WorldMap03Galaxy
+GalaxyName.mstxt:GalaxyName_WorldMap04Galaxy
+GalaxyName.mstxt:GalaxyName_WorldMap05Galaxy
+GalaxyName.mstxt:GalaxyName_WorldMap06Galaxy
+GalaxyName.mstxt:GalaxyName_WorldMap07Galaxy

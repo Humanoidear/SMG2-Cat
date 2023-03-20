@@ -1,0 +1,3 @@
+Layout_FileInfo.mstxt:FileInfo_Complete_00
+Layout_FileInfo.mstxt:FileInfo_Complete_01
+Layout_FileInfo.mstxt:FileInfo_Complete_02

@@ -1,0 +1,3 @@
+Result.mstxt:System_ResultGalaxyCompleteGold
+Result.mstxt:System_ResultGalaxyCompleteSilver
+Result.mstxt:System_ResultGhostAppear

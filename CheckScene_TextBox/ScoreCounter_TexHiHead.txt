@@ -1,0 +1,1 @@
+Layout_ScoreCounter.mstxt:ScoreCounter_HiScore

@@ -1,0 +1,2 @@
+Layout_PauseMenu.mstxt:PauseMenu_Piece
+Layout_PauseMenu.mstxt:PauseMenu_TotalPiece

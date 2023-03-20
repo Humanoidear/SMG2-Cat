@@ -1,0 +1,3 @@
+Layout_GalaxySelect.mstxt:GalaxySelect_StartGalaxy
+Layout_GalaxySelect.mstxt:GalaxySelect_StartMarioFace
+Layout_GalaxySelect.mstxt:GalaxySelect_StartTico

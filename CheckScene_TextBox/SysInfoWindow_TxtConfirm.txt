@@ -1,0 +1,15 @@
+DebugMessage.mstxt:System_FileSelect012
+Layout_FileSelect.mstxt:System_FileSelect001
+Layout_FileSelect.mstxt:System_FileSelect005
+Layout_FileSelect.mstxt:System_FileSelect007
+Layout_FileSelect.mstxt:System_FileSelect013
+Layout_PauseMenu.mstxt:PauseMenu_ConfirmBackWorldMap
+Layout_PauseMenu.mstxt:PauseMenu_ConfirmEndGame
+GuideLine.mstxt:NAND_02
+GuideLine.mstxt:NAND_03
+GuideLine.mstxt:NAND_07
+Save.mstxt:System_ConfirmNoSave
+Save.mstxt:System_Save00
+Save.mstxt:System_Save02
+Save.mstxt:System_Save04
+Save.mstxt:System_Save05

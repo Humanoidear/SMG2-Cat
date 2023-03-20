@@ -1,0 +1,1 @@
+MessageCheck.mstxt:ScenarioSelect_TxtGalaxy

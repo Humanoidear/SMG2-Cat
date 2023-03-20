@@ -1,0 +1,2 @@
+Result.mstxt:System_ResultWorldMapCometAppear
+Result.mstxt:System_ResultWorldMapRouteOpen

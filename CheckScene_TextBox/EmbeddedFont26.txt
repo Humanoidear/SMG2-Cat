@@ -1,0 +1,2 @@
+Banner.mstxt:TITLE_MAIN
+Banner.mstxt:TITLE_SUB

@@ -1,0 +1,1 @@
+MessageCheck.mstxt:ScoreNumber_TxtNumber

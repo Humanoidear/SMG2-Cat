@@ -1,0 +1,2 @@
+Layout_ScenarioSelect.mstxt:ScenarioSelect_HighScore
+Layout_ScenarioSelect.mstxt:ScenarioSelect_RaceTime

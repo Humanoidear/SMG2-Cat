@@ -1,0 +1,2 @@
+Layout_PauseMenu.mstxt:PauseMenu_ButtonBackWorldMap
+Layout_PauseMenu.mstxt:PauseMenu_ButtonEndGame

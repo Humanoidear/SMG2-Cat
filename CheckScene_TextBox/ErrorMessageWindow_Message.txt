@@ -1,0 +1,8 @@
+EmbeddedMessage.mstxt:DISC_01
+EmbeddedMessage.mstxt:DISC_02
+EmbeddedMessage.mstxt:DISC_03
+GuideLine.mstxt:CONT_10
+GuideLine.mstxt:CONT_10_2
+GuideLine.mstxt:NAND_08
+GuideLine.mstxt:NAND_11
+GuideLine.mstxt:NAND_12

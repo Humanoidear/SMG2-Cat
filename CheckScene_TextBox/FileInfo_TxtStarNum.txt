@@ -1,0 +1,1 @@
+Layout_FileInfo.mstxt:FileInfo_Star

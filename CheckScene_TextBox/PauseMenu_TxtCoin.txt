@@ -1,0 +1,2 @@
+Layout_PauseMenu.mstxt:PauseMenu_Coin
+Layout_PauseMenu.mstxt:PauseMenu_TotalCoin

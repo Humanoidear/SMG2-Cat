@@ -1,0 +1,9 @@
+Result.mstxt:System_ResultGetBronzeStar
+Result.mstxt:System_ResultGetCoin
+Result.mstxt:System_ResultGetCometMedal
+Result.mstxt:System_ResultGetGrandStar
+Result.mstxt:System_ResultGetGreenStar
+Result.mstxt:System_ResultGetHiddenStar
+Result.mstxt:System_ResultGetPowerStar
+Result.mstxt:System_ResultGetStarPiece
+Result.mstxt:System_ResultUpdateBestTime

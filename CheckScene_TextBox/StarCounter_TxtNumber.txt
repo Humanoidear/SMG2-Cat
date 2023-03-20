@@ -1,0 +1,1 @@
+MessageCheck.mstxt:StarCounter_TxtNumber

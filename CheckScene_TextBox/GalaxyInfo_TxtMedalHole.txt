@@ -1,0 +1,1 @@
+Layout_GalaxyInfo.mstxt:GalaxyInfo_Hole

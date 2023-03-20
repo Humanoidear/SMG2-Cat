@@ -1,0 +1,7 @@
+Layout_FileSelect.mstxt:System_FileSelect_Icon000
+Layout_FileSelect.mstxt:System_FileSelect_Icon001
+Layout_FileSelect.mstxt:System_FileSelect_Icon002
+Layout_FileSelect.mstxt:System_FileSelect_Icon003
+Layout_FileSelect.mstxt:System_FileSelect_Icon004
+Layout_FileSelect.mstxt:System_FileSelect_Icon005
+Layout_FileSelect.mstxt:System_FileSelect_Icon006

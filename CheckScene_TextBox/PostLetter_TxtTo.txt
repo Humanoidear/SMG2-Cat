@@ -1,0 +1,8 @@
+Layout_PostLetter.mstxt:PostmanLetterBee_To
+Layout_PostLetter.mstxt:PostmanLetterChallenge_To
+Layout_PostLetter.mstxt:PostmanLetterInvitation_To
+Layout_PostLetter.mstxt:PostmanLetterLuigi_To
+Layout_PostLetter.mstxt:PostmanLetterMario_To
+Layout_PostLetter.mstxt:PostmanLetterRabbit_To
+Layout_PostLetter.mstxt:PostmanLetterRequest_To
+Layout_PostLetter.mstxt:PostmanLetterTico_To

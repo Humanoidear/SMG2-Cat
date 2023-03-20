@@ -1,0 +1,9 @@
+Layout_FileInfo.mstxt:FileInfo_Message_00
+Layout_FileInfo.mstxt:FileInfo_Message_01
+Layout_FileInfo.mstxt:FileInfo_Message_02
+Layout_FileInfo.mstxt:FileInfo_Message_03
+Layout_FileInfo.mstxt:FileInfo_Message_04
+Layout_FileInfo.mstxt:FileInfo_Message_05
+Layout_FileInfo.mstxt:FileInfo_Message_06
+Layout_FileInfo.mstxt:FileInfo_Message_07
+Layout_FileInfo.mstxt:FileInfo_Message_08

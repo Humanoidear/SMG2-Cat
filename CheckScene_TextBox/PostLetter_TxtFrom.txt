@@ -1,0 +1,7 @@
+Layout_PostLetter.mstxt:PostmanLetterBee_From
+Layout_PostLetter.mstxt:PostmanLetterCaretaker_From
+Layout_PostLetter.mstxt:PostmanLetterLuigi_From
+Layout_PostLetter.mstxt:PostmanLetterPeach_From
+Layout_PostLetter.mstxt:PostmanLetterPichan_From
+Layout_PostLetter.mstxt:PostmanLetterRabbit_From
+Layout_PostLetter.mstxt:PostmanLetterScoreAttack_From

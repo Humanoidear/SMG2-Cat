@@ -1,0 +1,1 @@
+MessageCheck.mstxt:GalaxyInfo_TxtStar

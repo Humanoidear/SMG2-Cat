@@ -1,0 +1,1 @@
+Layout_BatteryInfo.mstxt:BatteryInfo_P1

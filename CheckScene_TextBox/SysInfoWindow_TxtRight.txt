@@ -1,0 +1,13 @@
+Layout_FileSelect.mstxt:System_FileSelect001_Yes
+Layout_FileSelect.mstxt:System_FileSelect005_Yes
+Layout_FileSelect.mstxt:System_FileSelect007_Yes
+Layout_FileSelect.mstxt:System_FileSelect013_Yes
+Layout_PauseMenu.mstxt:PauseMenu_ConfirmBackWorldMap_Yes
+Layout_PauseMenu.mstxt:PauseMenu_ConfirmEndGame_Yes
+GuideLine.mstxt:NAND_02_Yes
+GuideLine.mstxt:NAND_03_Yes
+GuideLine.mstxt:NAND_07_Yes
+Save.mstxt:System_ConfirmNoSave_Yes
+Save.mstxt:System_Save00_Yes
+Save.mstxt:System_Save04_Yes
+Save.mstxt:System_Save07_Yes
